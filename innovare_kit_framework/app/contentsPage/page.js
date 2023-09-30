@@ -1,6 +1,6 @@
 import React from "react";
-import { contents } from "./contents";
+import Contents from "@components/Contents";
 
 export default function contentsPage() {
-  return <contents />;
+  return <Contents />;
 }

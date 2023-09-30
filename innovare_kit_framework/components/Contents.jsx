@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function contents() {
+export default function Contents() {
   const contentsArray = [
     {
       chapter: "Chapter: 1",
